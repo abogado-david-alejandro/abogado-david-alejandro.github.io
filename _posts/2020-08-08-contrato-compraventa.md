@@ -2,6 +2,7 @@
 layout: post
 title: Generalidades del contrato de compraventa
 tags: [contrato-de-compraventa]
+categories: [contratos-civiles]
 ---
 - Concepto.
 - Alcance de la expresión dar.
