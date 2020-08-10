@@ -3,16 +3,13 @@ layout: post
 title: Generalidades del contrato de compraventa
 tags: [contrato-de-compraventa]
 ---
-
-En esta sección trataremos el contrato de compraventa.
-
-<!-- more -->
 - Concepto.
 - Alcance de la expresión dar.
 - Características.
 - Requisitos.
 - Incapacidades especiales.
 
+<!-- more -->
 
 # Recursos
 	
