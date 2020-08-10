@@ -1,10 +1,10 @@
-- title: About
+- title: Información
   url: /about/
-- title: Years
+- title: Publicaciónes
   url: /years/
-- title: Categories
+- title: Categorias
   url: /categories/
-- title: Tags
+- title: Temas
   url: /tags/
 - title: More
   sublinks:

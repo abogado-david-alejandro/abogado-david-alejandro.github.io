@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Información
-permalink: /about/
+permalink: /info/
 ---
 
 # David Alejandro Londoño R
