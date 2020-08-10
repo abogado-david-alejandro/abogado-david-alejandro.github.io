@@ -1,18 +1,24 @@
 ---
 layout: post
-title: Contrato de compraventa
-tags: [to-do list]
+title: Generalidades del contrato de compraventa
+tags: [contrato-de-compraventa]
 ---
 
 En esta sección trataremos el contrato de compraventa.
 
 <!-- more -->
-	- Consentimiento, generalidades, restricciones, prueba en la compraventa. Situación actual.
+- Concepto.
+- Alcance de la expresión dar.
+- Características.
+- Requisitos.
+- Incapacidades especiales.
 
-	- Consentimiento en automotores.
 
-	- Compraventas solemnes
+# Recursos
 	
-[SENTENCIA_2019_CAMABIO_DE_JURISPRUDENCIA_RESOLCUIOIN_DE_CONTRATO](/assets/documentos/contratos-compraventa/SENTENCIA_2019_CAMABIO_DE_JURISPRUDENCIA_RESOLCUIOIN_DE_CONTRATO.doc)
-[SENTENCIA_DE_06-05-1998](/assets/documentos/contratos-compraventa/SENTENCIA_DE_06-05-1998.doc)
+[SENTENCIA_2019_CAMABIO_DE_JURISPRUDENCIA_RESOLCUIOIN_DE_CONTRATO](/assets/documentos/contratos-compraventa/SENTENCIA_2019_11CAMABIO_DE_JURISPRUDENCIA_RESOLCUIOIN_DE_CONTRATO.doc)
+
+
+
+ 
 
