@@ -5,8 +5,8 @@ tags: [to-do list]
 ---
 
 En esta sección trataremos el contrato de compraventa.
-<-- more -->
 
+<!-- more -->
 	- Consentimiento, generalidades, restricciones, prueba en la compraventa. Situación actual.
 
 	- Consentimiento en automotores.
