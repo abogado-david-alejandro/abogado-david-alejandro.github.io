@@ -2,6 +2,7 @@
 layout: post
 title: Requisitos del contrato de compraventa
 tags: [contrato-de-compraventa]
+categories: [contratos-civiles]
 ---
 
 - Consentimiento.
